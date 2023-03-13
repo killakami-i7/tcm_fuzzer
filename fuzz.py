@@ -4,7 +4,7 @@ import socket
 from time import sleep
 
 buffer = "A" * 100
-target_ip = '192.168.245.135' # CHANGE THIS
+target_ip = '10.10.10.10' # CHANGE THIS
 target_port = 9999 # Change This
 
 while True:
